@@ -1,0 +1,11 @@
+﻿class,asal,keterangan
+Article,CSV berita,Satu artikel berita sebagai sumber bukti.
+Person,PERSON,Individu yang disebut dalam artikel.
+Organization,ORG,"Instansi, perusahaan, lembaga, atau komunitas."
+Location,LOC,Wilayah geografis.
+Facility,FAC,Bangunan atau fasilitas fisik.
+Regulation,LAW,"Undang-undang, aturan, atau kebijakan."
+EventCandidate,EVENT,"Kandidat kejadian, belum tentu FireEvent final."
+TemporalExpression,"DATE, TIME",Tanggal atau waktu yang disebut artikel.
+Measure,"MON, QTY, CRD, PRC, ORD","Nilai uang, jumlah, persentase, atau urutan."
+Unresolved,"NOR, REG, WOA",Label yang belum dipetakan ke ontology final.

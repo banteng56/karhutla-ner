@@ -5,6 +5,10 @@ kebakaran hutan dan lahan (karhutla). Proyek ini menyiapkan data berita yang
 sudah diberi label entitas (*silver labels*), melakukan klasterisasi entitas,
 dan membangun draft knowledge graph berbasis bukti artikel.
 
+## Preview graph
+
+![Preview knowledge graph Provinsi Riau](datasets/image.png)
+
 ## Isi repository
 
 - `ner_project.ipynb` — notebook eksplorasi NER, audit hasil label, klaster
@@ -13,7 +17,6 @@ dan membangun draft knowledge graph berbasis bukti artikel.
   hasil NER dan confidence score.
 - `datasets/ontology_draft/` — node, edge `MENTIONED_IN`, cluster entitas,
   draft kelas ontology, dan contoh graph interaktif Provinsi Riau.
-- `label_ner_silver.py` — script pembentukan label NER silver.
 
 ## Menjalankan notebook
 
